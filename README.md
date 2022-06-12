@@ -1,2 +1,2 @@
 # project1
-algorithms visualisation
+Visualisation of various algorithms
